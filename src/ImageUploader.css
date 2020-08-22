@@ -1,0 +1,22 @@
+.uploadImage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* .uploadImage-input{
+    display: flex;
+    flex-direction: column;
+} */
+
+.input-addingComment{
+    border: none;
+    padding:10px;
+    width:240px;
+}
+
+.input-chooseFile{
+    margin-top: 5px;
+    /* background-color: white; */
+    /* border: none; */
+}
